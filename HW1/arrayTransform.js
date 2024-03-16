@@ -4,7 +4,7 @@ function arrayTransform(array) {
 
     // Creating new array with function
     var newArray = starterArray.map((element, index) => {
-        return element + index + 1 
+        return (element + index + 1) % 10
     })
 
     // Checking data in new array

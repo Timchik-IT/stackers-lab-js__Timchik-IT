@@ -3,7 +3,7 @@ function sumOfLowest(array) {
     var starterArray =  array
 
     // Saving two lowest numbers in array
-    if (starterArray.length >= 2){
+    if (starterArray.length >= 4){
         var low1 = starterArray[0];
         var low2 = starterArray[1];
         
@@ -26,4 +26,4 @@ function sumOfLowest(array) {
 console.log("Second exercise")
 sumOfLowest([11, 23, 5, 14, 2, 94])
 sumOfLowest([1])
-sumOfLowest([1, 2])
+sumOfLowest([1, 12, 98, 6])

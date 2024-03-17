@@ -1,0 +1,65 @@
+{
+    "albums": [
+        {
+            "title": "Thriller",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/ru/5/59/Thriller_cover.jpg",
+            "artist": "Michael Jackson",
+            "songs": ["Wanna Be Startin' Somethin'", "Thriller", "Beat It", "Billie Jean"]
+        },
+        {
+            "title": "Back in Black",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Acdc_backinblack_cover.jpg",
+            "artist": "AC/DC",
+            "songs": ["Hells Bells", "Back in Black", "You Shook Me All Night Long", "Rock and Roll Ain't Noise Pollution"]
+        },
+        {
+            "title": "The Dark Side of the Moon",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/ru/thumb/1/15/The_Dark_Side_of_the_Moon.png/640px-The_Dark_Side_of_the_Moon.png",
+            "artist": "Pink Floyd",
+            "songs": ["Speak to Me", "Breathe", "Time", "Money"]
+        },
+        {
+            "title": "Rumours",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/ru/e/e3/Rumours.jpg",
+            "artist": "Fleetwood Mac",
+            "songs": ["Go Your Own Way", "Dreams", "Don't Stop", "The Chain"]
+        },
+        {
+            "title": "Abbey Road",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/ru/7/7f/The_Beatles_-_Abbey_Road.jpg",
+            "artist": "The Beatles",
+            "songs": ["Come Together", "Here Comes the Sun", "Something", "Octopus's Garden"]
+        },
+        {
+            "title": "Nevermind",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/ru/b/b7/NirvanaNevermindalbumcover.jpg",
+            "artist": "Nirvana",
+            "songs": ["Smells Like Teen Spirit", "Come as You Are", "Lithium", "In Bloom"]
+        },
+        {
+            "title": "Hotel California",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/49/Hotelcalifornia.jpg",
+            "artist": "Eagles",
+            "songs": ["Hotel California", "New Kid in Town", "Life in the Fast Lane", "Victim of Love"]
+        },
+        {
+            "title": "The Joshua Tree",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/ru/b/b0/U2_The_Joshua_Tree_album.jpg",
+            "artist": "U2",
+            "songs": ["Where the Streets Have No Name", "With or Without You", "I Still Haven't Found What I'm Looking For", "Bullet the Blue Sky"]
+        },
+        {
+            "title": "Thriller",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Queen_%E2%80%93_montagem_%E2%80%93_new.png/800px-Queen_%E2%80%93_montagem_%E2%80%93_new.png",
+            "artist": "Queen",
+            "songs": ["Bohemian Rhapsody", "Another One Bites the Dust", "Somebody to Love", "We Will Rock You"]
+        },
+        {
+            "title": "Led Zeppelin IV",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/ru/c/c7/Led_zeppelin_IV_front.jpg",
+            "artist": "Led Zeppelin",
+            "songs": ["Stairway to Heaven", "Black Dog", "Rock and Roll", "Going to California"]
+        }
+    ]
+}
+  

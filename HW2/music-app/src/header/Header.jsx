@@ -4,12 +4,12 @@ import logo from './logo.png'
 
 const Header = () => {
     return(
-        <div class="header">
-            <div class="items">
-                <div class="logo-block">
-                    <img class="logo" src={logo} alt="Loading.." />
+        <div className="header">
+            <div className="items">
+                <div className="logo-block">
+                    <img className="logo" src={logo} alt="Loading.." />
                 </div>
-                <p class="tittle">Musi-Tims</p>
+                <p className="tittle">Musi-Tims</p>
             </div>
         </div>
     );
